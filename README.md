@@ -3,7 +3,7 @@ Here are the trained models with codes for the paper "Prediction of Myocardial I
 
 The repository intends to predict the percentage of infarct or PMO (Persistent Myocardial Obstruction) in the left ventricle with only 12 pieces of clinical, paraclinical and physiological information.
 The predictions can be realised with Random Forest Regressor to quantify the PIM (Percentage of Infarcted Myocardium), or with Random Forest Classifier to classify the presence of infarct or PMO.
-The work can be found here "paper under review, will be avaible soon" and the employed data is illsutrated here: [Emidec: A Database Usable for the Automatic Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI](https://www.mdpi.com/2306-5729/5/4/89) 
+The work can be found here "paper under review, will be avaible soon" and the employed data are illsutrated here: [Emidec: A Database Usable for the Automatic Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI](https://www.mdpi.com/2306-5729/5/4/89) 
 
 Four pre-trained models are provided and trained with 150 cases of patient information, while only the detailed information of the 100 cases is publicaly availble (the training set of EMIDEC dataset).
 
