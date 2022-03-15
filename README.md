@@ -1,5 +1,5 @@
 # MI-prediction-from-patient-features
-Here are the trained models with codes for the paper "Prediction of Myocardial Infarction from Patient Features with Machine Learning".
+Here are the trained models with codes for the paper "Prediction of Myocardial Infarction from Patient Features with Machine Learning". https://doi.org/10.3389/fcvm.2022.754609
 
 The repository intends to predict the percentage of infarct or PMO (Persistent Myocardial Obstruction) in the left ventricle with only 12 pieces of clinical, paraclinical and physiological information.
 The predictions can be realised with Random Forest Regressor to quantify the PIM (Percentage of Infarcted Myocardium), or with Random Forest Classifier to classify the presence of infarct or PMO.
